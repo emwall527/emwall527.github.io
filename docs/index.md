@@ -9,6 +9,3 @@ tags:
 
 ### Introduction
  Welcome to my website, assigmenst are listed below
-
- ### Block Diagram
-![Alt Text](Downloads/Block Diagram.jpg)
