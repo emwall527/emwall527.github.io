@@ -11,4 +11,3 @@ tags:
  Welcome to my website, assigmenst are listed below
 
  ### Block Diagram
- ![My Image](Downloads/Block Diagram.jpg)
